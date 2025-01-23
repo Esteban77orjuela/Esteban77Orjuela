@@ -1,5 +1,3 @@
-a[I believe in center aligned 🤲]: #
-
 <div align="center">
   
 [this is for the picture]: #	
@@ -21,7 +19,7 @@ a[I believe in center aligned 🤲]: #
 </div>
 
 
-### Hi there 👋🎉
+# Hi, mi name is Esteban Orjuela <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 
