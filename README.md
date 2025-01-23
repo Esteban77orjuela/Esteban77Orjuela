@@ -46,7 +46,7 @@ Hi there! I'm a **Software Developer** passionate about solving problems and cre
 
 - **Email:** yourname@example.com
 - **GitHub:** [yourgithub](https://github.com/yourusername)
-- **LinkedIn:** [[yourlinkedin]()](https://www.linkedin.com/in/estebanorjuela/)
+- **LinkedIn:**(https://www.linkedin.com/in/estebanorjuela/)
 
 ---
 
