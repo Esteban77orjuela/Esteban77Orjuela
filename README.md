@@ -44,9 +44,9 @@ Hi there! I'm a **Software Developer** passionate about solving problems and cre
 
 # 📫 Contact Me
 
-- **Email:** yourname@example.com
+- **Email:** esteban77orjuela.com
 - **GitHub:** [yourgithub](https://github.com/yourusername)
-- **LinkedIn:**(https://www.linkedin.com/in/estebanorjuela/)
+- **LinkedIn:** https://www.linkedin.com/in/estebanorjuela/
 
 ---
 
