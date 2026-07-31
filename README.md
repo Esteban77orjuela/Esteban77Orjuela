@@ -1,50 +1,91 @@
 # 👋 Hi, I'm Esteban Orjuela
 
-💻 Full Stack Developer
+💻 **Full Stack Developer** | 🎓 **Software Development Technologist (SENA)** | 🎓 **Systems Engineering Student**
 
-🎓 Systems Engineering Student | Software Development Technologist (SENA)
+I build **web applications, REST APIs, automation workflows, and AI-powered solutions** focused on solving real-world problems.
 
-🚀 Passionate about building web applications, APIs, automation and AI solutions.
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a Full Stack Developer focused on creating scalable applications using Java, Spring Boot, React and Python.
-
-I enjoy building APIs, real-time applications, automation workflows and AI-powered solutions. I'm constantly learning and improving my skills in software architecture, cybersecurity and artificial intelligence.
+My main focus is developing scalable and maintainable software using **Java, Spring Boot, React, Python, and modern development practices**.
 
 ---
 
-## 🚀 Main Technologies
+## 🚀 What I Build
 
-* Java
-* Spring Boot
-* React
-* TypeScript
-* Python
-* FastAPI
-* PostgreSQL
-* Docker
-* React Native
-* REST APIs
-* Git & GitHub
+* 🌐 Full Stack Web Applications
+* ⚙️ REST APIs and Backend Systems
+* 🤖 AI-Powered Applications and LLM Integrations
+* 🔄 Automation Workflows and Process Optimization
+* 💬 Real-Time Applications
+* 🗄️ Database-Driven Systems
+* 🚀 CI/CD and Software Delivery Solutions
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
+### Backend
+
+Java · Spring Boot · Python · FastAPI · REST APIs
+
+### Frontend
+
+React · TypeScript · JavaScript
+
+### Databases
+
+PostgreSQL · SQL
+
+### DevOps & Tools
+
+Docker · Git · GitHub · CI/CD
+
+### AI & Automation
+
+LLM Integration · AI-Powered Applications · Workflow Automation
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Java E-Commerce Backend**
+Backend system built with Java and Spring Boot.
+
+🔹 **ClinicBot Pro**
+AI-powered customer service assistant designed for medical clinics.
+
+🔹 **CI/CD Pipeline Manager**
+Solution focused on automating software delivery workflows.
+
+🔹 **Finanzas-Flow**
+Web application focused on personal financial management.
+
+🔹 **Nexus Chat**
+Real-time communication application.
+
+🔹 **Heimdall**
+React Native application integrating notes and AI capabilities.
+
+---
+
+## 🌱 Currently
+
+I'm continuously improving my skills in:
+
+* Software Architecture
 * Advanced Spring Boot
 * Artificial Intelligence and LLM Integration
-* Software Architecture
+* Cloud & DevOps
 * Cybersecurity
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-* 📧 Email: [esteban77orjuela@gmail.com](mailto:esteban77orjuela@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/estebanorjuela](http://www.linkedin.com/in/estebanorjuela)
-* 📍 Bogotá, Colombia
+📧 **Email:** [esteban77orjuela@gmail.com](mailto:esteban77orjuela@gmail.com)
 
-> "Strive not to be a success, but rather to be of value."
+💼 **LinkedIn:** [linkedin.com/in/estebanorjuela](https://www.linkedin.com/in/estebanorjuela)
+
+📍 **Bogotá, Colombia**
+
+---
+
+> *"Strive not to be a success, but rather to be of value."*
